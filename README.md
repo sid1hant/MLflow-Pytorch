@@ -1,7 +1,7 @@
-# For creating the environment automatically
+## For creating the environment automatically
 
-## Create the ini_setup.sh 
+### Create the ini_setup.sh 
 
-''' bash
+```bash
 bash init_setup.sh
-''''
+```
